@@ -1,0 +1,4 @@
+Name,MaintenanceWindow,Virtual,VCenter,BusinessContact
+AD-DC-01,ServersMonthly1,True,vcenter.domain.be,"alain.seys@outlook.com"
+CTX-SF1,gl_mg_sv_wu_monthly5,True,vcenter.domain.be,"alain.seys@outlook.com"
+CTX-SF2,gl_mg_sv_wu_monthly1,True,vcenter.domain.be,"alain.seys@outlook.com"
