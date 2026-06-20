@@ -1,0 +1,8 @@
+Enabled,Name,DayOfWeek,nThDay,Hour,SecurityGroup
+True,ServersPrePilot,Thursday,1,12:00,gl_mg_sv_wu_prepilot
+True,ServersMonthly1,Monday,1,21:00,gl_mg_sv_wu_monthly1
+True,ServersMonthly2,Thursday,2,21:00,gl_mg_sv_wu_monthly2
+True,ServersMonthly3,Monday,2,21:00,gl_mg_sv_wu_monthly3
+True,ServersMonthly4,Thursday,2,21:00,gl_mg_sv_wu_monthly4
+True,ServersMonthly5,Sunday,3,06:00,gl_mg_sv_wu_monthly5
+False,ServersMonthly6,Friday,2,12:00,gl_mg_sv_wu_monthly6
