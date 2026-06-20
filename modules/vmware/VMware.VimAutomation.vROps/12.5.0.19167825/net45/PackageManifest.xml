@@ -1,0 +1,7 @@
+<ModulePackages>
+   <Package Id="VMware.VCOpsAutomation.Views" Version="12.5.0.19167825" />
+   <Package Id="VMware.VimAutomation.vROps.Commands" Version="12.5.0.19167825" />
+   <Package Id="VMware.VimAutomation.vROps.Impl" Version="12.5.0.19167825" />
+   <Package Id="VMware.VimAutomation.vROps.Interop" Version="12.5.0.19167825" />
+   <Package Id="VMware.VimAutomation.vROps.Types" Version="12.5.0.19167825" />
+</ModulePackages>

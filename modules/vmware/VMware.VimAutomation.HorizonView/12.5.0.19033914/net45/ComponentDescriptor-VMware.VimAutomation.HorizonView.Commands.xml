@@ -1,0 +1,26 @@
+<ComponentDescriptor>
+  <Name>VMware.VimAutomation.HorizonView.Commands</Name>
+  <Assembly>VMware.VimAutomation.HorizonView.Commands</Assembly>
+  <ImplementingType>VMware.VimAutomation.HorizonView.Commands.HorizonViewCmdletsImpl</ImplementingType>
+  <IsSnapin>true</IsSnapin>
+  <ProvidedServiceList>
+  </ProvidedServiceList>
+  <RequiredServiceList>
+    <ServiceDescriptor>
+      <Name>HViewService</Name>
+      <Version>1.0</Version>
+    </ServiceDescriptor>
+  </RequiredServiceList>
+  <ExtendedServiceList>
+  </ExtendedServiceList>
+  <Version>
+    <Major>12</Major>
+    <Minor>5</Minor>
+    <Revision>0</Revision>
+    <Build>19033914</Build>
+    <Company>VMware Inc.</Company>
+    <Copyright>Copyright 2020</Copyright>
+    <UserFriendlyVersion>VMware HorizonView PowerCLI Component PowerCLI Component 12.5 build 19033914</UserFriendlyVersion>
+    <Description>Provides Connect/Disconnect cmdlets for View API service.</Description>
+  </Version>
+</ComponentDescriptor>

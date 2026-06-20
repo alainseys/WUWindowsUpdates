@@ -1,0 +1,9 @@
+<ModulePackages>
+   <Package Id="VMware.VimAutomation.Cloud.Commands" Version="12.0.0.15940183" />
+   <Package Id="VMware.VimAutomation.Cloud.Impl" Version="12.0.0.15940183" />
+   <Package Id="VMware.VimAutomation.Cloud.Interop" Version="12.0.0.15940183" />
+   <Package Id="VMware.VimAutomation.Cloud.Types" Version="12.0.0.15940183" />
+   <Package Id="VMware.VimAutomation.Cloud.Util10" Version="12.0.0.15940183" />
+   <Package Id="VMware.VimAutomation.Cloud.Views" Version="12.0.0.15940183" />
+   <Package Id="VMware.VimAutomation.Cloud.Schema" Version="31.0.15940183" />
+</ModulePackages>

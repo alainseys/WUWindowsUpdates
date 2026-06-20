@@ -1,0 +1,6 @@
+<ModulePackages>
+   <Package Id="VMware.VimAutomation.Security.Impl" Version="12.3.0.17833870" />
+   <Package Id="VMware.VimAutomation.Security.Interop" Version="12.3.0.17833870" />
+   <Package Id="VMware.VimAutomation.Security.Types" Version="12.3.0.17833870" />
+   <Package Id="VMware.VimAutomation.Security.Commands" Version="12.3.0.17833870" />
+</ModulePackages>

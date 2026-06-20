@@ -1,0 +1,8 @@
+<ModulePackages>
+   <Package Id="VMware.VimAutomation.Srm.Commands" Version="12.3.0.17843071" />
+   <Package Id="VMware.VimAutomation.Srm.Impl" Version="12.3.0.17843071" />
+   <Package Id="VMware.VimAutomation.Srm.Interop" Version="12.3.0.17843071" />
+   <Package Id="VMware.VimAutomation.Srm.Types" Version="12.3.0.17843071" />
+   <Package Id="VMware.VimAutomation.Srm.Views" Version="12.3.0.17843071" />
+   <Package Id="VMware.VimAutomation.Srm.WsdlTypes" Version="12.3.0.17843071" />
+</ModulePackages>
